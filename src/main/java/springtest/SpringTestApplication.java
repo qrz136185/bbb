@@ -10,6 +10,8 @@ public class SpringTestApplication {
         SpringApplication.run(SpringTestApplication.class, args);
         System.out.println("启动成功");
         System.out.println("启动成功1");
+     //123
+        //123
     }
 
 }
